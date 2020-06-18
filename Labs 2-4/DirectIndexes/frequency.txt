@@ -1,0 +1,39 @@
+D:\Eclipse\Proiecte\RIW_Lab3\TestFolder\SubFolder1\f1_S1.txt
+{este=3, 1=1, nimeni=2, acesta=1, fisierul=1, nu=1, din=2, andrei=1, textul=1, subfolderu1=1, da=1, pentru=1}
+
+D:\Eclipse\Proiecte\RIW_Lab3\TestFolder\SubFolder1\f2_S1.txt
+{}
+
+D:\Eclipse\Proiecte\RIW_Lab3\TestFolder\SubFolder1\f3_S1.txt
+{}
+
+D:\Eclipse\Proiecte\RIW_Lab3\TestFolder\SubFolder2\f1_S2.txt
+{}
+
+D:\Eclipse\Proiecte\RIW_Lab3\TestFolder\SubFolder2\f2_S2.txt
+{}
+
+D:\Eclipse\Proiecte\RIW_Lab3\TestFolder\SubFolder2\f3_S2.txt
+{ce=1, cu=1, ceva=1, mai=1, nu=1, te-am=1, suparat=1, faci=1, ca=1, salut=1, sper=1}
+
+D:\Eclipse\Proiecte\RIW_Lab3\TestFolder\SubFolder3\f1_S3.txt
+{}
+
+D:\Eclipse\Proiecte\RIW_Lab3\TestFolder\SubFolder3\f2_S3.txt
+{}
+
+D:\Eclipse\Proiecte\RIW_Lab3\TestFolder\SubFolder3\f3_S3.txt
+{}
+
+D:\Eclipse\Proiecte\RIW_Lab3\TestFolder\The_Cunning_Fox_and_the_Clever_Stork.txt
+{cunning=3, big=1, bad=1, promised=1, moral=1, offer=1, disappointment=1, remembered=1, problem=1, humiliated=1, clever=2, poor=1, friend=1, easily=2, narrow=1, jar=1, animals=1, ashamed=1, tummy=1, im=1, inviting=1, bill=3, happily=1, acted=1, left=2, reached=1, served=1, storythe=1, sweetly=1, touched=1, upset=1, brought=1, licked=1, iid=1, enjoy=1, plate=1, befriended=1, turn=1, long=3, exchanging=1, gain=1, finishing=1, hungry=1, arrived=1, asked=2, offered=1, speak=1, begets=1, place=3, kitchen=1, dear=1, health=1, neck=1, stork=15, shallow=1, stomach=1, good=2, enjoying=1, leave=1, tip=1, day=3, pleasantries=1, surprise=1, invitation=1, invited=1, felt=1, accepted=1, troubling=1, feast=4, ache=1, foxs=1, storks=1, playing=1, dont=2, trust=1, soup=10, replied=2, bowl=1, house=2, fox=13, running=1, lived=1, met=1, make=1, mischievous=1, tricks=1, dinner=1, thanking=1, time=1, stammered=1}
+
+D:\Eclipse\Proiecte\RIW_Lab3\TestFolder\The_Goose_with_Golden_Eggs.txt
+{egg=1, thought=2, storyhowever=1, imagined=1, discontentment=1, moral=1, decided=1, children=1, golden=5, english=1, eggs=4, began=1, wife=2, made=1, metal=1, angry=1, afford=1, johnny=5, mighty=1, attitude=1, feels=1, entitled=1, uncle=4, dollars=3, gold=1, lot=2, receiving=1, asked=1, man=2, popular=1, insides=1, laid=2, precious=1, cents=3, kill=2, fast=1, future=1, cutting=1, buying=1, lays=1, open=1, story=1, buy=1, good=1, act=1, find=1, bird=2, 50=3, day=2, results=1, exclaimed=1, read=1, lay=1, kind=1, unhappiness=1, innards=1, johnnys=2, dont=1, parents=1, lucky=1, young=1, regret=1, goose=6, content=1, bike=2, generous=1, proverb=2, rooted=1, met=1, fortune=1, rich=2, killed=1, shocked=1, wiser=1, money=2, visited=1, time=3}
+
+D:\Eclipse\Proiecte\RIW_Lab3\TestFolder\The_Hare_and_the_Tortoise.txt
+{half=1, thought=2, woke=1, leading=1, decided=1, bank=2, rabbit=6, terrain=3, ran=2, addition=2, wins=1, began=2, pace=1, non-traditional=1, 1=1, 2=1, slow=4, stopping=1, forest=1, long=1, fell=1, cried=1, stretched=2, hearing=1, emerging=1, agreed=1, fast=3, watch=1, river=4, story=2, run=3, boast=1, cheered=1, late=1, won=1, finish=2, par=1, invited=2, walked=2, yawned=1, playing=1, loudly=1, beginning=1, distance=1, idea=1, back=2, mistakes=1, trundling=1, choose=1, watching=1, undo=1, hard=2, hare=8, steady=2, soul-searching=1, capabilities=1, race=11, relax=1, recently=1, time=3, moral=3, road=2, animals=2, asleep=1, bragged=1, natural=1, slowly=1, traditional=1, winner=1, determined=1, crossed=1, storythe=1, emerged=1, thinking=2, overconfident=1, climbed=1, grown=2, loud=1, alongside=1, additions=1, knew=2, tired=1, gathered=1, consistent=3, expect=1, paused=1, defeated=1, speedy=1, wondering=1, halted=1, swam=1, laughed=1, plenty=1, water=1, proposed=1, ground=1, line=2, careful=1, head=1, tortoise=14, challenged=1, walking=1, loser=1, win=2, rest=1, looked=1, advantage=1, cross=1, kilometers=1, insisted=1, approached=1, front=1}
+
+D:\Eclipse\Proiecte\RIW_Lab3\TestFolder\The_Lion_and_the_mouse.txt
+{big=1, happy=1, acts=1, moral=1, awakened=1, asleep=1, kindness=2, ran=1, began=1, pass=1, lion=6, jungle=2, greatly=1, gnawed=1, turn=1, cried=1, search=1, jaws=1, swallow=1, tickled=1, happened=1, days=1, hunters=1, small=1, good=1, mouse=7, huge=1, king=3, paw=2, tree=1, pardon=1, lifted=1, opened=1, forget=1, rewarded=1, ropes=1, forgive=1, idea=1, wagon=1, running=1, repeat=1, captured=1, zoo=1, tied=1, plight=1, bound=1, lions=1, short=1, time=1, storiesjust=1}
+
