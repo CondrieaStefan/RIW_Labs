@@ -1,0 +1,13 @@
+Error request!
+
+GET /descopera-tuiasi HTTP/1.1
+Host: www.tuiasi.ro/error
+User-Agent: CLIENTRIW
+Connection: close
+
+HTTP/1.1 400 Bad Request
+Date: Tue, 01 May 2018 10:24:01 GMT
+Server: Apache/2.2.15 (CentOS)
+Content-Length: 426
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
